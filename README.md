@@ -1,4 +1,4 @@
-# planilha_controle_proposta
+# Planilha - Controle de Proposta
  Pequeno projeto em VBA para automatização e controle de propostas.
 
 Projeto simples criado para automatizar a criação e gerenciamento de propostas com o objetivo de facilitar este tipo de tarefa no dia a dia do meu trabalho, também para aprendizado em VBA. 
