@@ -7,6 +7,8 @@ Para baixar a planilha [Clieque Aqui](https://github.com/Jefferson472/planilha_c
 
 *Nota: A planilha foi desenvolvida somente até o ponto de se tornar funcional no meu dia a dia, existem várias melhorias a serem feitas e Bugs para serem corrigidos, porém, devido a dedicação em outros projetos não irei trabalhar mais nela por enquanto.*
 
+![Imagem da Planilha](https://github.com/Jefferson472/planilha_controle_proposta/blob/main/img_form.jpg)
+
 ---
 
 A planilha é composta por: 
